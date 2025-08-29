@@ -1,4 +1,5 @@
 # analise de dados
+![](https://raw.githubusercontent.com/igorrzinho/Analise_dados/refs/heads/main/bestselling-books/img/linkeding.png)
 
 link da base : [https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019?resource=download](https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019?resource=download)
 
